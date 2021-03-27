@@ -1,0 +1,5 @@
+includes/.env
+vendor
+assets
+.htaccess
+composer.lock

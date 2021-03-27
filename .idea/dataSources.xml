@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - trying@localhost" uuid="6ef87363-6506-43e4-8dc4-20a56e85ba7f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mizu.a2hosted.com:3306/mizuahos_dixit?serverTimezone=UTC</jdbc-url>
+    </data-source>
+  </component>
+</project>

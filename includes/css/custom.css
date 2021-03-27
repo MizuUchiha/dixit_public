@@ -1,0 +1,52 @@
+.carousel-caption {
+  top: 50%;
+  transform: translateY(-50%);
+  bottom: initial;
+  background-color: rgba(0, 61, 51, 0.7);
+}
+
+.carousel-item {
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+}
+
+.dropdown-menu {
+  border-radius: 0;
+  min-width: 0;
+  border: 0;
+}
+
+.card {
+  background-color: #e6f4f2;
+}
+
+.form-control {
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  background-color: transparent;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  background-color: #003d33;
+}
+
+.nav-link {
+  color: #003d33;
+}
+.nav-link:hover {
+  color: #00382f;
+}
+
+.paginate_button {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  border-radius: 0.2rem;
+  color: #fff;
+  background-color: #003d33;
+  border-color: #00382f;
+}
+
+/*# sourceMappingURL=custom.css.map */
